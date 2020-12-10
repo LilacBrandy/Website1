@@ -25,6 +25,23 @@ nav ul {
     padding: 0%;
 }
 
-ul.topnav-spaced {
+ul.topnav li {
     list-style: none;
+    float: left;
+}
+
+ul.topnav li.topnav-right {
+    list-style: none;
+    float: right;
+}
+
+ul.topnav li a {
+    display: block;
+    text-decoration: none;
+    min-height: 24px;
+    text-align: center;
+    padding: 14px;
+    text-transform: uppercase;
+    color: rgb(47, 61, 95);
+    font-family: 'Mulish', sans-serif;
 }
