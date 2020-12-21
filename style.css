@@ -94,6 +94,45 @@ ul.topnav li.dropdown-icon {
     background: linear-gradient(rgb(96, 75, 124), rgb(252, 252, 250));
 }
 
+h1.large {
+    color: rgb(9, 37, 61);
+    font-size: 56px;
+    font-family: 'Maven', sans-serif;
+    margin: 1%;
+    line-height: 84px;
+}
+
+h2.medium {
+    color: rgb(9, 37, 61);
+    font-size: 42px;
+    font-family: 'Maven', sans-serif;
+    margin: 1%;
+    line-height: 64px;
+}
+
+h3.small {
+    color: rgb(9, 37, 61);
+    font-size: 20px;
+    font-family: 'Maven', sans-serif;
+    margin: 1%;
+    line-height: 20px;
+}
+
+input[type="text"] {
+    font-size: 20px;
+    width: auto;
+    min-width: 100px;
+    margin: 1%;
+    padding: 1%;
+}
+
+input[type="password"] {
+    font-size: 20px;
+    width: auto;
+    min-width: 100px;
+    margin: 1%;
+    padding: 1%;
+}
 
 /* ++++++++++++ Mobile +++++++++++++++ */
 
